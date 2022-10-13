@@ -1,0 +1,38 @@
+body {
+    margin: 0px;
+    background-color: #212121;
+}
+
+#rcorners2 {
+    border-radius: 25px;
+    border: 2px solid #ff9900;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+}
+
+p {
+    color: white;
+}
+
+.button {
+    background-color: #ff9900;
+    border-radius: 20px;
+    border: 1px solid #ff9900;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    background-color: #ffffff;
+}
